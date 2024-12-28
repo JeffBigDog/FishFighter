@@ -20,7 +20,6 @@ public class BaseFish : MonoBehaviour
     private Vector2 moveDirection;
     private float nextMoveTime;
     private bool facingRight = true;
-    private bool moveVertically = false;
 
     private SpriteRenderer spriteRenderer;
 

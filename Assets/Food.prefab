@@ -102,8 +102,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fallSpeed: 2
-  target: {fileID: 0}
+  lifetime: 5
   collectSpeed: 5
+  isCollectable: 0
+  target: {fileID: 0}
 --- !u!61 &274870244702420440
 BoxCollider2D:
   m_ObjectHideFlags: 0
